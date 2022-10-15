@@ -88,3 +88,34 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+TestTask/TestTask/Assets.xcassets/Image 1.imageset/Contents.json
+TestTask/TestTask.xcodeproj/project.pbxproj
+TestTask/TestTask.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+TestTask/TestTask/Assets.xcassets/AccentColor.colorset/Contents.json
+TestTask/TestTask.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+TestTask/TestTask/Assets.xcassets/AppIcon.appiconset/Contents.json
+TestTask/TestTask/Assets.xcassets/Contents.json
+TestTask/TestTask/Assets.xcassets/Image 1.imageset/Image.png
+TestTask/TestTask/Assets.xcassets/Image 2.imageset/Contents.json
+TestTask/TestTask/Assets.xcassets/Image 2.imageset/Image.png
+TestTask/TestTask/Assets.xcassets/Image.imageset/Contents.json
+TestTask/TestTask.xcodeproj/project.pbxproj
+TestTask/TestTask.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+TestTask/TestTask.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+TestTask/TestTask/Assets.xcassets/AccentColor.colorset/Contents.json
+TestTask/TestTask/Assets.xcassets/Contents.json
+TestTask/TestTask/Assets.xcassets/AppIcon.appiconset/Contents.json
+TestTask/TestTask/Assets.xcassets/Image 1.imageset/Contents.json
+TestTask/TestTask/Assets.xcassets/Image 1.imageset/Image.png
+TestTask/TestTask/Assets.xcassets/Image 2.imageset/Contents.json
+TestTask/TestTask/Base.lproj/Main.storyboard
+TestTask/TestTask/Base.lproj/LaunchScreen.storyboard
+TestTask/TestTask/Assets.xcassets/sale3.imageset/Yard-Sale-Pizza-heads-to-Crystal-Palace-for-eighth-London-site.jpg
+TestTask/TestTask/Assets.xcassets/sale3.imageset/Contents.json
+TestTask/TestTask/Assets.xcassets/sale2.imageset/ShareASlice-STILLS-166.jpeg
+TestTask/TestTask/Assets.xcassets/sale2.imageset/Contents.json
+TestTask/TestTask/Assets.xcassets/noPhoto.imageset/noPhoto.png
+TestTask/TestTask.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+TestTask/TestTask/Assets.xcassets/noPhoto.imageset/Contents.json
+TestTask/TestTask/Views/Base.lproj/LaunchScreen.storyboard
+TestTask/TestTask/Views/Base.lproj/Main.storyboard
