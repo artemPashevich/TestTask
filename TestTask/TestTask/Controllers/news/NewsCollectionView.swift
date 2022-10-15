@@ -7,7 +7,5 @@
 
 import UIKit
 
-class NewsCollectionView: UICollectionView {
-
-
+final class NewsCollectionView: UICollectionView {
 }

@@ -7,9 +7,6 @@
 
 import UIKit
 
-class NewsCollectionViewCell: UICollectionViewCell {
-    
-    
+final class NewsCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var newsImageView: UIImageView!
-    
 }
